@@ -62,7 +62,7 @@ Principais elementos do dashboard:
 Os filtros foram posicionados de forma estratégica para **não poluir a tela principal**, mantendo uma experiência limpa e profissional.
 
 ### 📷 Prévia do Dashboard
-![dashboard-vendas-powerbi](imagens/Analise-varejo)
+![dashboard-vendas-powerbi](imagens/Analise-varejo.png)
 
 ---
 
